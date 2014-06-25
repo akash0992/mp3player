@@ -1,0 +1,10 @@
+{
+    "name": "pmusique",
+    "version": "0.0.1",
+    "main" : "player.js",
+    "bin": {"pmusique":"./player.js"},
+    "dependencies": {
+        "lame": "1.1.0",
+        "speaker": "0.0.10"
+    }
+}
